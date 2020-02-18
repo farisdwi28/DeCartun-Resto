@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(6.jpg);
+    background-size: 100vw;
+}
+form{
+    background-color:snow;
+    border-radius: 10px;
+    margin-top: 150px;
+    width: 370px;
+    text-align: center;
+    height: 400px;
+    font-size: 15px;
+    border : solid 0px;
+    margin-left: 0px;
+}
+input{
+    border-radius: 10px;
+    border-bottom: solid;
+    border-width: 3px;
+    min-width: 120px;
+    margin-top: 50px;
+    min-height: 40px;
+}
